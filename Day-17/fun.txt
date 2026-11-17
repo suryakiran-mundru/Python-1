@@ -1,0 +1,18 @@
+Types of Functions in Python
+Python functions can be broadly classified into two categories.
+Python Functions
+
+1. Built-in Functions
+Already provided by Python print(), len(), type(), max()
+
+2. User-defined Functions
+Created by programmers using def greet(), add(), calculate()
+
+Built-in Functions
+Built-in functions are functions already available in Python.
+
+We don't need to create them ourselves.
+
+Example 1: print()
+
+print("Hello World")
